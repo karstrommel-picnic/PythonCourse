@@ -1,2 +1,4 @@
 Hello Git, how you doin'?
 All good all good?
+
+Let's see if we can make a conflicting file
